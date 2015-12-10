@@ -1,0 +1,4 @@
+The temporary repo to show the error in Grails GORM.
+
+Please do the command below before assembling GrailsGormHibernate5
+$ gradle clean publishToMavenLocal
